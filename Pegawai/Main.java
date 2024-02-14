@@ -29,7 +29,7 @@ public class Main {
             case "KRY":
                 pegawai = new Karyawan();
                 break;
-            // Tambahkan case untuk kelas Teknisi dan Karyawan
+        
             default:
                 System.out.println("Kode pegawai tidak valid!");
                 System.exit(0);
